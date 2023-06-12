@@ -30,6 +30,7 @@ A simple CSS driven News Ticker that consumes data from a rest endpoint.
 - Inserting a new component into the GUI
 - Adding your own styling CSS for your component
 - Consuming data from a foreign REST Endpoint
+- How to hide a created element until next login.
 
 #### Details
 Last Version tested: 9.6.0
