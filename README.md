@@ -37,7 +37,7 @@ Last Version tested: 9.7.5
 
 Source Code: [dashboard_feed.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/dashboard_feed.js "dashboard_feed.js")
 
-## Customer CRM Integration
+### Customer CRM Integration
 #### Description
 Retrieving information from an external datasource (Rick and Morty) based on the customer name and showing this in the customer profile.
 :exclamation: PLEASE NOTE: Data is being pulled from https://rickandmortyapi.com/ for educational purposes. Please allow https://rickandmortyapi.com/ in your _Allowlist for external domains_. :exclamation:
