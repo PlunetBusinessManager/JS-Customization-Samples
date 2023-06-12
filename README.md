@@ -2,7 +2,7 @@
 ## Getting started
 This repository stores various Javascript custom scripts for the BusinessManager Customizations area (Admin|Customizations) Please note that injection scripts may outdate with changes of the Plunet User Interface.
 
-## Script Details
+## Scripts
 
 ### ICS Calendar Download for Order Due Date
 #### Description
@@ -53,7 +53,9 @@ Last Version tested: 9.7.5
 
 Source Code: [crm_sample_table.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/crm_sample_table.js "crm_sample_table.js")
 
-### Portal Checker (Small Helper)
+## Helper Functions
+
+### Portal Checker
 #### Description
 Sometimes, you need to make sure that you only show your customizations for the PM or only customer or vendor. This short snippet shows how you can differentiate
 
