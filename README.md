@@ -63,3 +63,8 @@ Sometimes, you need to make sure that you only show your customizations for the 
 Last Version tested: 9.7.5
 
 Source Code: [portal_type_checker.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/portal_type_checker.js "portal_type_checker.js")
+
+
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
