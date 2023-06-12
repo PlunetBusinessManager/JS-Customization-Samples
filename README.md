@@ -50,3 +50,5 @@ Retrieving information from an external datasource based on the customer name an
 
 #### Details
 Last Version tested: 9.6.0
+
+Source Code: [crm_sample_table.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/crm_sample_table.js "crm_sample_table.js")
