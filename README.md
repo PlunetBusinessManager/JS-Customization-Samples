@@ -17,7 +17,7 @@ This example script only works for this specific date field.
 - How to make sure the functionality is only available for internal users.
 
 #### Details
-Last Version tested: 9.6.0
+Last Version tested: 9.7.5
 
 Source Code: [calendar_file_for_order_due_date.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/calendar_file_for_order_due_date.js "calendar_file_for_order_due_date.js")
 
@@ -33,7 +33,7 @@ A simple CSS driven News Ticker that consumes data from a rest endpoint.
 - How to hide a created element until next login.
 
 #### Details
-Last Version tested: 9.6.0
+Last Version tested: 9.7.5
 
 Source Code: [dashboard_feed.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/dashboard_feed.js "dashboard_feed.js")
 
@@ -49,6 +49,15 @@ Retrieving information from an external datasource (Rick and Morty) based on the
 - producing the GUI table with the data
 
 #### Details
-Last Version tested: 9.6.0
+Last Version tested: 9.7.5
 
 Source Code: [crm_sample_table.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/crm_sample_table.js "crm_sample_table.js")
+
+### Portal Checker (Small Helper)
+#### Description
+Sometimes, you need to make sure that you only show your customizations for the PM or only customer or vendor. This short snippet shows how you can differentiate
+
+#### Details
+Last Version tested: 9.7.5
+
+Source Code: [portal_type_checker.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/portal_type_checker.js "portal_type_checker.js")
