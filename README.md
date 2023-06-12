@@ -19,7 +19,7 @@ This example script only works for this specific date field.
 #### Details
 Last Version tested: 9.6.0
 
-Source Code: to be added later
+Source Code: [calendar_file_for_order_due_date.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/calendar_file_for_order_due_date.js "calendar_file_for_order_due_date.js")
 
 ### News Ticker
 #### Description
