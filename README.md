@@ -24,7 +24,7 @@ Source Code: [calendar_file_for_order_due_date.js](https://github.com/PlunetBusi
 ### News Ticker
 #### Description
 A simple CSS driven News Ticker that consumes data from a rest endpoint.
-:exclamation: PLEASE NOTE: You do not have access to the REST Endpoint used - This is for educational purposes only. :exclamation:
+:exclamation: PLEASE NOTE: Data is being pulled from TechCrunch for educational purposes. Please allow https://www.techcrunch.com in your _Allowlist for external domains_. :exclamation:
 
 #### What you can learn
 - Inserting a new component into the GUI
@@ -33,6 +33,8 @@ A simple CSS driven News Ticker that consumes data from a rest endpoint.
 
 #### Details
 Last Version tested: 9.6.0
+
+Source Code: [dashboard_feed.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/dashboard_feed.js "dashboard_feed.js")
 
 ## Customer CRM Integration
 #### Description
