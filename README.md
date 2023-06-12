@@ -40,7 +40,7 @@ Source Code: [dashboard_feed.js](https://github.com/PlunetBusinessManager/JS-Cus
 ## Customer CRM Integration
 #### Description
 Retrieving information from an external datasource based on the customer name and showing this in the customer profile.
-:exclamation: PLEASE NOTE: You do not have access to the REST Endpoint used - This is for educational purposes only. :exclamation:
+:exclamation: PLEASE NOTE: Data is being pulled from https://rickandmortyapi.com/ for educational purposes. Please allow https://rickandmortyapi.com/ in your _Allowlist for external domains_. :exclamation:
 
 #### What you can learn
 - Inserting a new display table into the GUI matching the Plunet style
