@@ -4,6 +4,20 @@ This repository stores various Javascript custom scripts for the BusinessManager
 
 ## Scripts
 
+### Hide Text Module based on selected company code in order
+#### Description
+You may have a text module that shall only appear for orders in a specific company code. The text module will be hidden from the screen for all other company codes.
+The text module name and the selection for the company code need to be altered in the script. Community thread to be found [here](https://community.plunet.com/t/m1h4s0k)
+
+#### What you can learn
+- Grabbing the value of a field in Plunet for condition checking
+- Hiding a field from the user interface
+
+#### Details
+Last Version tested: 9.7.5
+
+Source Code: [hidetextmodule.js](https://github.com/PlunetBusinessManager/JS-Customization-Samples/blob/main/hidetextmodule.js "hidetextmodule.js")
+
 ### ICS Calendar Download for Order Due Date
 #### Description
 In Order Details|General, there is a field for order due date. If the order due date is set a button will be displayed that allows to download a general ICS Calendar file which can be opened with your calendar application (e.g. Outlook).
